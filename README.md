@@ -1,7 +1,8 @@
 # Capstone Project: TrackRight
 - Current Stage: V1 - Expense Breakdown
 
-## Project Description: I have been using SplitWise to track expenses when travelling, especially with friends. Now, SplitWise is starting to implement certain limitations in the use of its app. With the skills I've learnt, I'd like to try to create my own version of this based on my primary needs and painpoints.
+## Project Description: 
+I have been using SplitWise to track expenses when travelling, especially with friends. Now, SplitWise is starting to implement certain limitations in the use of its app. With the skills I've learnt, I'd like to try to create my own version of this based on my primary needs and painpoints.
 
 
 ## Table of Contents
