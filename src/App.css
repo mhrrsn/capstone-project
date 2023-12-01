@@ -1,0 +1,15 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.prev-expense-btn {
+    margin-top: 3rem;
+   }
+
+.next-expense-btn {
+    margin-top: 3rem;
+    margin-left: 140px;
+   }
+
+
+   
