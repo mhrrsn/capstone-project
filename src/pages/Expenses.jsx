@@ -51,9 +51,10 @@ function Expenses() {
           </li>
         ))}
       </ul>
-      <Link to="/expenses/new" className="btn btn-primary mt-3">
+      <Link to="/expenses/new" className="btn btn-success mt-3 me-4" >
         Create New Expense
       </Link>
+      <Link to="/homepage" className="btn btn-primary mt-3">Back to Homepage</Link>
     </div>
   );
 }
